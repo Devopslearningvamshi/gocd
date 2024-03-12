@@ -1,5 +1,7 @@
 # gocd
 
+lesson 19
+
 Create the two instance 
 login to instance
 sudo labauto select the  gocdserver, gocd agent 21,22 and instal in the instance
